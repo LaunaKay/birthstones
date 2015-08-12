@@ -1,0 +1,7 @@
+{
+    "db": "mongodb://localhost/mean-travis",
+    "port": 3001,
+    "app": {
+        "name": "birthstones - portfolio project using mean stack - Test on travis"
+    }
+}
